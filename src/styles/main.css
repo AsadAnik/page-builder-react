@@ -1,11 +1,4 @@
-// Palette variables
-$primaryColor: #444;
-$secondaryColor: #ddd;
-$tertiaryColor: #804f7b;
-$quaternaryColor: #d278c9;
-
 /* // it's own styles.. */
-
 body {
   margin: 0;
   padding: 0;
@@ -22,15 +15,13 @@ html {
   display: none;
 }
 
-
-
 /* /// The Custom styles for the UI.. */
 /* We can remove the border we've set at the beginnig */
 #gjs {
   border: none;
 }
-/* Theming */
 
+/* Theming */
 /* Primary color for the background */
 .gjs-one-bg {
   background-color: green;
@@ -52,3 +43,4 @@ html {
 .gjs-four-color-h:hover {
   color: green;
 }
+/*# sourceMappingURL=main.css.map */
